@@ -1,0 +1,5 @@
+smb_common_v2/smb_control
+/home/devesh/ws3/devel/.private/smb_control/cmake.lock /home/devesh/ws3/devel/./cmake.lock
+/home/devesh/ws3/devel/.private/smb_control/lib/pkgconfig/smb_control.pc /home/devesh/ws3/devel/lib/pkgconfig/smb_control.pc
+/home/devesh/ws3/devel/.private/smb_control/share/smb_control/cmake/smb_controlConfig.cmake /home/devesh/ws3/devel/share/smb_control/cmake/smb_controlConfig.cmake
+/home/devesh/ws3/devel/.private/smb_control/share/smb_control/cmake/smb_controlConfig-version.cmake /home/devesh/ws3/devel/share/smb_control/cmake/smb_controlConfig-version.cmake
